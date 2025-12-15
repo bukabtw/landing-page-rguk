@@ -51,15 +51,7 @@
 
 ## 📁 Структура проекта
 
-landing-page-rguk/
-├── index.html # Главная и единственная HTML-страница
-├── style.css # Основной файл стилей
-├── README.md
-├── addons/ # Папка с изображениями (логотипы, фото, иконки)
-│ ├── background.jpg
-│ ├── 1.jpg
-│ └── ...
-└── screenshots/ # Папка для скриншотов проекта
+![Структура](screenshots/structure.png)
 
 ## 📸 Скриншоты
 
