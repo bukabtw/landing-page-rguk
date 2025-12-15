@@ -433,7 +433,7 @@ footer a:hover {
 .main-container {
   width: 96.5vw;
   height: 90vh;
-  background-image: url("photo/background.jpg");
+  background-image: url("addons/background.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
